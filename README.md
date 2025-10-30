@@ -136,6 +136,5 @@ TREBLE_Q        = 0.707
 ## 🪪 Lisenssi
 
 Tämä skripti on vapaa käytettäväksi ja muokattavaksi.  
-Lisää tarvittaessa oma **LICENSE**-tiedosto (esim. MIT tai Apache 2.0).
 
 ---
